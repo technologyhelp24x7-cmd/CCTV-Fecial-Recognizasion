@@ -1,0 +1,6 @@
+{
+  "name": "LumaFlux Intelligence",
+  "description": "Enterprise-grade CCTV Video Intelligence and Video Analytics desktop platform built for local-first privacy, auditability, and modular AI processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+[project]
+name = "lumaflux-intelligence-backend"
+version = "0.1.0"
+description = "FastAPI backend and video intelligence foundation for LumaFlux Intelligence"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = [".."]
+testpaths = ["../tests"]

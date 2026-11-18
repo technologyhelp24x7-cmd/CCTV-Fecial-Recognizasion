@@ -1,0 +1,11 @@
+node_modules
+dist
+storage
+*.db
+*.db-wal
+*.db-shm
+__pycache__
+*.pyc
+.pytest_cache
+desktop/src-tauri/target
+.env
